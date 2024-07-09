@@ -1,5 +1,3 @@
-This README will provide an overview of the project, usage instructions, and other relevant information to help users understand and use your tool effectively.
-
 ### `README.md`
 
 ```markdown
