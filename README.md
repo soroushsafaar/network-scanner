@@ -92,17 +92,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or support, please contact [soroush.safaar@gmail.com].
 
 ```
-
-### Explanation:
-
-1. **Project Overview:** Provides a brief description of the tool and its features.
-2. **Usage Instructions:** Detailed steps on how to use the tool, including cloning the repository, running the script, and following prompts.
-3. **Examples:** Shows example inputs for both internal and external scans.
-4. **Project Structure:** Explains the structure of the repository and the purpose of each file.
-5. **Important Notes:** Emphasizes the need for permission and responsible usage.
-6. **Contributing:** Encourages contributions and provides guidelines.
-7. **License:** Information about the project license.
-8. **Acknowledgements:** Credits to the Scapy library.
-9. **Contact:** Contact information for support or inquiries.
-
-This `README.md` should provide a comprehensive overview of your project and help users understand how to use it effectively.
